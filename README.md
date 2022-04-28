@@ -38,6 +38,7 @@ None
 
 #### <i class="icon-folder-open"></i> Skills 
 Programming Language - C
+
 Web Programming - HTML5 / CSS
 
 
